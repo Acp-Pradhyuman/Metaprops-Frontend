@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="Group_5027" data-name="Group 5027" transform="translate(2720 -5695)">
+    <rect id="Rectangle_2095" data-name="Rectangle 2095" width="60" height="60" transform="translate(-2720 5695)" fill="#fff" opacity="0"/>
+    <g id="Icon_ionic-md-pricetags" data-name="Icon ionic-md-pricetags" transform="translate(-2716.992 5699.937)">
+      <path id="Path_1061" data-name="Path 1061" d="M41.757,7.523v16.99L16.116,49.059a5.492,5.492,0,0,0,3.47,1.482,6,6,0,0,0,3.784-1.482L46.336,27.406V11.982Z" transform="translate(7.648 -0.414)" fill="#a6bbb4"/>
+      <path id="Path_1062" data-name="Path 1062" d="M44.666,3.375H25.386L3.733,25.98A4.932,4.932,0,0,0,2.251,29.4a5.27,5.27,0,0,0,1.482,3.844L18.65,48.14a5.531,5.531,0,0,0,3.47,1.506,6.013,6.013,0,0,0,3.772-1.506L48.522,26.511V7.231Zm-3.7,12.375a3.86,3.86,0,1,1,2.579-2.579A3.752,3.752,0,0,1,40.967,15.75Z" transform="translate(-2.249 -3.375)" fill="#4472c7"/>
+    </g>
+  </g>
+</svg>

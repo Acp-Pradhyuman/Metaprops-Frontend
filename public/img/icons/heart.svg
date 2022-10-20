@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="26" viewBox="0 0 22 26">
+  <g id="Favourites_Icon" data-name="Favourites Icon" transform="translate(0 0.42)">
+    <rect id="Transparent_Icon" data-name="Transparent Icon" width="22" height="26" transform="translate(0 -0.42)" fill="#fff" opacity="0"/>
+    <path id="Heart" d="M17.943,3.437a5.308,5.308,0,0,0-7.243.528l-.765.788-.765-.788a5.308,5.308,0,0,0-7.243-.528,5.573,5.573,0,0,0-.384,8.069l7.511,7.755a1.217,1.217,0,0,0,1.758,0l7.511-7.755a5.57,5.57,0,0,0-.38-8.069Z" transform="translate(0.327 2.384)" fill="#fff"/>
+  </g>
+</svg>

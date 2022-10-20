@@ -1,0 +1,54 @@
+input[type="search"]::-webkit-search-decoration,
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-results-button,
+input[type="search"]::-webkit-search-results-decoration {
+	display: none;
+}
+
+input[type="date"]::-webkit-inner-spin-button {
+	-webkit-appearance: none;
+	display: none;
+}
+.input_base input[type="date"]::-ms-clear {
+	display: none;
+}
+
+.on-sale-cap {
+	text-transform: capitalize;
+}
+
+/* .slick-cloned {
+	display: none !important;
+} */
+
+.btn {
+	border-radius: 0px !important;
+	border: none !important;
+}
+
+/* Works on Firefox */
+* {
+	scrollbar-width: thin;
+	scrollbar-color: #4472c7 transparent;
+}
+
+/* Works on Chrome, Edge, and Safari */
+/* *::-webkit-scrollbar {
+	width: 3px;
+}
+
+*::-webkit-scrollbar-track {
+	background: transparent;
+}
+
+*::-webkit-scrollbar-thumb {
+	background-color: #4472c7;
+	border-radius: 10px;
+	border: 0px solid orange;
+} */
+
+
+.left-side-column.fillter-bar-hide .right-side-col,
+.left-side-column.fillter-bar-show.abc .right-side-col {
+    position: unset !important;
+}

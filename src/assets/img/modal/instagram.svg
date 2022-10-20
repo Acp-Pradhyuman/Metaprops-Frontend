@@ -1,0 +1,18 @@
+<svg id="Group_323" data-name="Group 323" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="72.072" height="72.073" viewBox="0 0 72.072 72.073">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="NoPath_-_Copy_21_" data-name="NoPath - Copy (21)" width="29.859" height="28.829" transform="translate(0)" fill="#152026"/>
+    </clipPath>
+  </defs>
+  <g id="Rectangle_240" data-name="Rectangle 240" transform="translate(0 0)" fill="rgba(0,0,0,0)" stroke="#c9c9c9" stroke-width="1">
+    <rect width="72.072" height="72.073" stroke="none"/>
+    <rect x="0.5" y="0.5" width="71.072" height="71.073" fill="none"/>
+  </g>
+  <g id="Mask_Group_12" data-name="Mask Group 12" transform="translate(21.622 21.622)" clip-path="url(#clip-path)">
+    <g id="instagram" transform="translate(-0.159 -0.389)">
+      <path id="Path_347" data-name="Path 347" d="M11.019,3.405a7.609,7.609,0,1,0,7.609,7.609,7.609,7.609,0,0,0-7.609-7.609Zm0,12.548a4.939,4.939,0,1,1,4.939-4.939A4.937,4.937,0,0,1,11.019,15.954Z" transform="translate(3.814 3.808)" fill="#152026"/>
+      <path id="Path_348" data-name="Path 348" d="M20.943.094c-2.728-.127-9.486-.121-12.217,0A8.862,8.862,0,0,0,2.5,2.492C-.35,5.344.015,9.187.015,14.823c0,5.768-.321,9.522,2.487,12.331,2.863,2.862,6.762,2.487,12.331,2.487,5.714,0,7.686,0,9.706-.778,2.747-1.066,4.82-3.522,5.023-7.932.129-2.73.121-9.486,0-12.217-.245-5.206-3.039-8.363-8.62-8.62Zm4.319,25.173c-1.87,1.87-4.463,1.7-10.464,1.7-6.178,0-8.656.091-10.464-1.721-2.082-2.072-1.705-5.4-1.705-10.445,0-6.827-.7-11.744,6.151-12.095,1.574-.056,2.038-.074,6-.074l.056.037c6.585,0,11.751-.69,12.062,6.161.07,1.563.087,2.033.087,5.989C26.983,20.928,27.1,23.421,25.261,25.267Z" transform="translate(0 0)" fill="#152026"/>
+      <ellipse id="Ellipse_10" data-name="Ellipse 10" cx="1.778" cy="1.778" rx="1.778" ry="1.778" transform="translate(20.966 5.135)" fill="#152026"/>
+    </g>
+  </g>
+</svg>

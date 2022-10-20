@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45" height="35" viewBox="0 0 45 35">
+  <g id="Group_3274" data-name="Group 3274" transform="translate(-1289 -260)">
+    <rect id="Rectangle_1637" data-name="Rectangle 1637" width="45" height="35" transform="translate(1289 260)" fill="#fff" opacity="0"/>
+    <g id="Filter_Icon" data-name="Filter Icon" transform="translate(1297.344 266.721)" opacity="0.47">
+      <path id="Path_10" data-name="Path 10" d="M1.9,8.5h8a3.588,3.588,0,0,0,6.956,0h12a.9.9,0,1,0,0-1.8h-12A3.588,3.588,0,0,0,9.9,6.7h-8a.9.9,0,1,0,0,1.8ZM13.381,5.789A1.808,1.808,0,1,1,11.573,7.6,1.81,1.81,0,0,1,13.381,5.789Z" transform="translate(-1 -3.991)" fill="#1d1d1b"/>
+      <path id="Path_11" data-name="Path 11" d="M28.858,12.7H26.934a3.588,3.588,0,0,0-6.956,0H1.9a.9.9,0,1,0,0,1.8H19.978a3.588,3.588,0,0,0,6.956,0h1.924a.9.9,0,1,0,0-1.8Zm-5.4,2.707A1.808,1.808,0,1,1,25.264,13.6,1.81,1.81,0,0,1,23.456,15.4Z" transform="translate(-1 -2.802)" fill="#1d1d1b"/>
+      <path id="Path_12" data-name="Path 12" d="M28.858,18.7H11.446a3.587,3.587,0,0,0-6.955,0H1.9a.9.9,0,1,0,0,1.8H4.491a3.587,3.587,0,0,0,6.955,0H28.858a.9.9,0,1,0,0-1.8ZM7.969,21.4A1.808,1.808,0,1,1,9.776,19.6,1.81,1.81,0,0,1,7.969,21.4Z" transform="translate(-1 -1.613)" fill="#1d1d1b"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg id="Group_323" data-name="Group 323" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="71.043" height="72.073" viewBox="0 0 71.043 72.073">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="NoPath_-_Copy_21_" data-name="NoPath - Copy (21)" width="29.859" height="28.829" transform="translate(0)" fill="#152026"/>
+    </clipPath>
+  </defs>
+  <g id="Rectangle_240" data-name="Rectangle 240" transform="translate(0 0)" fill="rgba(0,0,0,0)" stroke="#c9c9c9" stroke-width="1">
+    <rect width="71.043" height="72.073" stroke="none"/>
+    <rect x="0.5" y="0.5" width="70.043" height="71.073" fill="none"/>
+  </g>
+  <g id="Mask_Group_11" data-name="Mask Group 11" transform="translate(21.622 20.592)" clip-path="url(#clip-path)">
+    <g id="linkedin" transform="translate(0.091 -0.39)">
+      <path id="Path_344" data-name="Path 344" d="M24.112,24.716h.007V13.838c0-5.321-1.146-9.42-7.366-9.42a6.458,6.458,0,0,0-5.816,3.2H10.85v-2.7h-5.9v19.8h6.141v-9.8c0-2.581.489-5.078,3.686-5.078,3.15,0,3.2,2.946,3.2,5.243v9.64Z" transform="translate(5.538 4.941)" fill="#152026"/>
+      <path id="Path_345" data-name="Path 345" d="M.231,4.653H6.38v19.8H.231Z" transform="translate(0.258 5.204)" fill="#152026"/>
+      <path id="Path_346" data-name="Path 346" d="M3.561,0A3.578,3.578,0,1,0,7.123,3.561,3.562,3.562,0,0,0,3.561,0Z" fill="#152026"/>
+    </g>
+  </g>
+</svg>

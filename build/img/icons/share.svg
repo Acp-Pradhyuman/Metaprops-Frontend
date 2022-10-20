@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="26" viewBox="0 0 22 26">
+  <g id="Share_Icon" data-name="Share Icon" transform="translate(0 0.42)">
+    <g id="Transparent_Rect" data-name="Transparent Rect" transform="translate(0 -0.42)">
+      <rect id="Transparent_Rect-2" data-name="Transparent Rect" width="22" height="26" fill="#fff" opacity="0"/>
+    </g>
+    <g id="Share" transform="translate(2.771 3.323)">
+      <path id="Share-2" data-name="Share" d="M12.673,11.521a3.441,3.441,0,0,0-2.153.752L6.831,9.967a3.476,3.476,0,0,0,0-1.5l3.69-2.306A3.45,3.45,0,1,0,9.3,4.207L5.609,6.513a3.456,3.456,0,1,0,0,5.408L9.3,14.227a3.457,3.457,0,1,0,3.374-2.706Z" fill="#fff"/>
+    </g>
+  </g>
+</svg>

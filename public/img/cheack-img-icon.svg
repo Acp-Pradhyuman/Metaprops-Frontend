@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <g id="MDI_check-decagram" data-name="MDI / check-decagram" transform="translate(-0.5 -0.301)">
+    <g id="Boundary" transform="translate(0.5 0.301)" fill="#a8977b" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0">
+      <rect width="100" height="100" stroke="none"/>
+      <rect x="0.5" y="0.5" width="99" height="99" fill="none"/>
+    </g>
+    <path id="Path_check-decagram" data-name="Path / check-decagram" d="M81.583,39.7,72.646,29.561l1.245-13.427L60.668,13.142,53.745,1.54,41.292,6.867,28.838,1.54l-6.923,11.6L8.692,16.1,9.937,29.524,1,39.7,9.937,49.846,8.692,63.309,21.915,66.3l6.923,11.6L41.292,72.54l12.454,5.327,6.923-11.6,13.223-2.992L72.646,49.846,81.583,39.7M33.966,57.946,19.314,43.352l5.165-5.144,9.487,9.413L58.1,23.577l5.165,5.181Z" transform="translate(9.208 8.198)" fill="#a8977b"/>
+  </g>
+</svg>

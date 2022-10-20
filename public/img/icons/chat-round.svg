@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="246" height="246" viewBox="0 0 246 246">
+  <defs>
+    <filter id="Ellipse_98" x="0" y="0" width="246" height="246" filterUnits="userSpaceOnUse">
+      <feOffset dy="20" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="20" result="blur"/>
+      <feFlood flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_4571" data-name="Group 4571" transform="translate(60.297 40)">
+    <g id="Group_3292" data-name="Group 3292" transform="translate(0)">
+      <g transform="matrix(1, 0, 0, 1, -60.3, -40)" filter="url(#Ellipse_98)">
+        <circle id="Ellipse_98-2" data-name="Ellipse 98" cx="63" cy="63" r="63" transform="translate(60 40)" fill="#fff" opacity="0.63"/>
+      </g>
+      <path id="Icon_material-chat-bubble" data-name="Icon material-chat-bubble" d="M49.055,3H8.117A5.132,5.132,0,0,0,3,8.117V54.172L13.234,43.937h35.82a5.132,5.132,0,0,0,5.117-5.117V8.117A5.132,5.132,0,0,0,49.055,3Z" transform="translate(34.659 34.559)" fill="#006cbb" opacity="0.85"/>
+    </g>
+  </g>
+</svg>

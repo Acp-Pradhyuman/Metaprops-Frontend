@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="Group_3554" data-name="Group 3554" transform="translate(0 0.245)">
+    <circle id="Ellipse_164" data-name="Ellipse 164" cx="20" cy="20" r="20" transform="translate(0 -0.245)" fill="#e2e2e2"/>
+    <path id="Icon_awesome-camera" data-name="Icon awesome-camera" d="M17.1,5.99v9.617a1.6,1.6,0,0,1-1.6,1.6H1.6a1.6,1.6,0,0,1-1.6-1.6V5.99a1.6,1.6,0,0,1,1.6-1.6H4.541l.411-1.1a1.6,1.6,0,0,1,1.5-1.038h4.191a1.6,1.6,0,0,1,1.5,1.038l.414,1.1h2.938A1.6,1.6,0,0,1,17.1,5.99ZM12.555,10.8a4.007,4.007,0,1,0-4.007,4.007A4.01,4.01,0,0,0,12.555,10.8Zm-1.069,0A2.938,2.938,0,1,1,8.548,7.86,2.943,2.943,0,0,1,11.487,10.8Z" transform="translate(11.452 10.27)"/>
+  </g>
+</svg>

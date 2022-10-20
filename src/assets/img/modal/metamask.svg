@@ -1,0 +1,14 @@
+<svg id="Group_327" data-name="Group 327" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="72.072" height="72.073" viewBox="0 0 72.072 72.073">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="NoPath_-_Copy_21_" data-name="NoPath - Copy (21)" width="28.829" height="28.829" transform="translate(0)" fill="#152026"/>
+    </clipPath>
+  </defs>
+  <g id="Rectangle_240" data-name="Rectangle 240" transform="translate(0 0)" fill="rgba(0,0,0,0)" stroke="#c9c9c9" stroke-width="1">
+    <rect width="72.072" height="72.073" stroke="none"/>
+    <rect x="0.5" y="0.5" width="71.072" height="71.073" fill="none"/>
+  </g>
+  <g id="Mask_Group_13" data-name="Mask Group 13" transform="translate(21.622 21.622)" clip-path="url(#clip-path)">
+    <path id="medium" d="M27.291,4.218l2.366-2.264v-.5h-8.2L15.617,16,8.97,1.458H.374v.5L3.139,5.282a1.16,1.16,0,0,1,.374.968V19.327a1.491,1.491,0,0,1-.4,1.3L0,24.4v.489H8.829v-.5L5.715,20.624a1.537,1.537,0,0,1-.429-1.3V8.015l7.75,16.879h.9L20.6,8.015V21.461c0,.355,0,.428-.232.66l-2.4,2.319v.5H29.6v-.5l-2.311-2.263a.687.687,0,0,1-.264-.66V4.878a.684.684,0,0,1,.263-.66Z" transform="translate(-0.409 1.241)" fill="#152026"/>
+  </g>
+</svg>

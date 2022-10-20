@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="Group_5027" data-name="Group 5027" transform="translate(2720 -5695)">
+    <rect id="Rectangle_2095" data-name="Rectangle 2095" width="60" height="60" transform="translate(-2720 5695)" fill="#fff" opacity="0"/>
+    <g id="Icon_ionic-md-wallet" data-name="Icon ionic-md-wallet" transform="translate(-2717.152 5699.937)">
+      <path id="Path_1056" data-name="Path 1056" d="M23.569,40.7V18.428a5.571,5.571,0,0,1,5.574-5.574H54.859v-2.78A5.552,5.552,0,0,0,49.338,4.5H9.119A5.642,5.642,0,0,0,3.375,9.983V49.144a5.642,5.642,0,0,0,5.744,5.483H49.325a5.543,5.543,0,0,0,5.522-5.574v-2.78H29.13A5.568,5.568,0,0,1,23.569,40.7Z" transform="translate(-3.375 -4.5)" fill="#4472c7"/>
+      <path id="Path_1057" data-name="Path 1057" d="M17.227,14.042V32.317a2.1,2.1,0,0,0,2.089,2.089H43.726a2.1,2.1,0,0,0,2.089-2.089V14.042a2.1,2.1,0,0,0-2.089-2.089H19.315A2.1,2.1,0,0,0,17.227,14.042Zm10.065,13.3a4.179,4.179,0,1,1,3.9-3.9A4.18,4.18,0,0,1,27.291,27.344Z" transform="translate(8.489 1.884)" fill="#a6bbb4"/>
+    </g>
+  </g>
+</svg>
